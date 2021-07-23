@@ -1,0 +1,1 @@
+#this is the template for each golf course
