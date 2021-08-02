@@ -1,1 +1,0 @@
-#this starts the handicap calculator
